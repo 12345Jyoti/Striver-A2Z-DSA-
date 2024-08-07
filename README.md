@@ -1,2 +1,2 @@
-# Striver-A2Z-DSA-
+# Striver-A2Z-DSA
 Java DSA Problems
