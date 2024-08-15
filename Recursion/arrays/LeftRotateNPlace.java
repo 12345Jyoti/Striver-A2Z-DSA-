@@ -22,12 +22,6 @@ public class LeftRotateNPlace {
    }
    
    
-   static void leftRotateOptoimalSoln(int arr,int n,int d){
-       
-       int start=0;int end=n-1;
-       
-       reverse(arr,0,);
-   }
 
    static void reverse(int arr[],int start,int end){
 
@@ -41,7 +35,7 @@ public class LeftRotateNPlace {
    }
 
     public static void main(String[] args) {
-        int arr[]={1,2,3,4,5,6,7};
+            int arr[]={1,2,3,4,5,6,7};
         int d=3;int n=arr.length;
         leftRotate(arr,n,d);
 
