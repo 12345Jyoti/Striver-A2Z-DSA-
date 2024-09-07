@@ -3,7 +3,7 @@ package linkedList;
 public class LL {
     Node head;
 
-    class Node{
+    public class Node{
         String data;
         Node next;
 

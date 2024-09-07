@@ -17,6 +17,8 @@ class Node1 {
 
 public class Array2LL {
 
+
+
     private static Node1 array2ll(int arr[]) {
         if (arr.length == 0) {
             return null;  // Handle empty array case
